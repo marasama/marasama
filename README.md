@@ -5,23 +5,23 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="90" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="70" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="90" alt="embeddedc logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="70" alt="embeddedc logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="90" alt="cplusplus logo"  />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="70" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="90" alt="neovim logo"  />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="70" alt="neovim logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="90" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="70" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="90" alt="opengl logo"  />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="70" alt="opengl logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="90" alt="sdl logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="70" alt="sdl logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="90" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="70" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="90" alt="arduino logo"  />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="70" alt="arduino logo"  />
 </div>
 
 ###
