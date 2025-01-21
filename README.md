@@ -29,17 +29,17 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="12" height="" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="12" height="" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="12" height="" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="" alt="discord logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marasama&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="215" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marasama&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=great-gatsby&hide_border=true&order=2" height="215" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=marasama&theme=dark_lover&column=5&row=1&margin-w=20&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marasama&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marasama&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=great-gatsby&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=marasama&theme=dark_lover&column=5&row=1&margin-w=20&margin-h=8&no-bg=true&no-frame=true&order=4" height="200" alt="trophy graph"  />
 </div>
 
 ###
